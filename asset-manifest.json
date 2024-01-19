@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Family-Tree-creator-test-task/static/css/main.500b6dc7.css",
+    "main.js": "/Family-Tree-creator-test-task/static/js/main.7e34f9d6.js",
+    "index.html": "/Family-Tree-creator-test-task/index.html",
+    "main.500b6dc7.css.map": "/Family-Tree-creator-test-task/static/css/main.500b6dc7.css.map",
+    "main.7e34f9d6.js.map": "/Family-Tree-creator-test-task/static/js/main.7e34f9d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500b6dc7.css",
+    "static/js/main.7e34f9d6.js"
+  ]
+}
